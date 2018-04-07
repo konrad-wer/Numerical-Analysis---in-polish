@@ -1,0 +1,1 @@
+#### Moje prace wykonane w ramach pracowni z przedmiotu Analiza Numeryczna (wersja magisterska).
